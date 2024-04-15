@@ -2,10 +2,9 @@ This is a passwaord manager website
 <br>
 Author- Sanchita Singh
 <br>
-To see the working of this website, use the following credentials-
+To see the working of this website, sign up to create an account & then use your credentials to login -
 <br>
-username-ss4050
+You can enter the login credentials for as many websites as you want.
 <br>
-password-abcd
+the credentials will be automatically saved in the database & can be accessed whenever you want
 <br>
-Now click on the login button
